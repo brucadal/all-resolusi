@@ -3,7 +3,9 @@ Rencana konten WPU
 - JacaScript
 * ES6
 * Framewoerks JavaScript
-- Fundamental Struktur data
+< Angular
+< React
 - PHP Frameworks
+< Laravel
 - Interview
 - Vlog
