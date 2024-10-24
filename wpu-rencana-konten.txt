@@ -3,6 +3,7 @@ Rencana konten WPU
 - JacaScript
 * ES6
 * Framewoerks JavaScript
+- Fundamental Struktur data
 - PHP Frameworks
 - Interview
 - Vlog
